@@ -1,4 +1,4 @@
-#WebPack
+# WebPack
 
 * Agrupador de módulos
 
@@ -16,7 +16,7 @@ profissional ao projeto.
 * Isso fará com que um servidor disponibilize nossa aplicação para o navegador. Para acessá-la, basta entrar com 
 o endereço `http://localhost:3000`
 
-#Sobre o WebPack e Babel
+# Sobre o WebPack e Babel
 
 * O `babel-core` nada mais é do que o núcleo do babel desprovido de sua linha de comando e que pode ser utilizado 
 por outras ferramentas do mercado como Webpack.
